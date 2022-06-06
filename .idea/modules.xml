@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/git-starterkit.iml" filepath="$PROJECT_DIR$/git-starterkit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/git-dtag.iml" filepath="$PROJECT_DIR$/git-dtag.iml" />
     </modules>
   </component>
 </project>

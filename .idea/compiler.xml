@@ -6,11 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="git-starterkit" />
+        <module name="git-dtag" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="git-starterkit" target="1.8" />
+      <module name="git-dtag" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
