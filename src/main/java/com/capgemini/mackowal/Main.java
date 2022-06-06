@@ -5,6 +5,6 @@ public class Main {
         Javalin app = Javalin.create().start(8000);
         app.get("/", ctx->ctx.result("Hello world!"));
         app.get("/user1", ctx->ctx.result("Adam Nowak"));
-        app.get("/user2",ctx->ctx.result("Janusz Nowak"));
+        app.get("/user2",ctx->ctx.result("Jan Nowak"));
     }
 }
